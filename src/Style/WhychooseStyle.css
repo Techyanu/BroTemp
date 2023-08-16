@@ -1,0 +1,40 @@
+.btn1 {
+    height: 50px;
+    width: 200px;
+    font-size: 50px;
+    color: white;
+}
+ 
+.why{
+color:white;
+font-weight:bold;
+font-size:40px;
+}
+.iconstyle{
+    color: #5fcf80;
+    height: 60px;
+    width: 60px;
+}
+
+.btn-primary{
+    font-family: "Raleway", sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    letter-spacing: 1px;
+    display: inline-block;
+    padding: 10px 35px;
+    border-radius: 50px;
+    background: transparent;
+    transition: 0.5s;
+    margin-top: 30px;
+    border: 2px solid rgba(242, 249, 242, 0.985);
+    color: #fff;
+    transition: all 0.3s ease 0s;
+}
+    
+.btn-primary:hover {
+        color: #FFF;
+        background: rgba(243, 250, 243, 0.75);
+        border: 2px solid rgb(103, 192, 103, 0.75);
+    
+}

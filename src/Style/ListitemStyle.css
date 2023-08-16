@@ -1,0 +1,20 @@
+
+
+.main {
+  height: 55px;
+  width:300px;
+  border-radius: none;
+  border: 1px solid #eef0ef;
+}
+/* marginTop: '9px', fontWeight: '700', fontSize: '17px', color: '#37423b;' */
+
+.Atext{
+margin-top:9px;
+font-weight:700;
+font-size: 17px;
+color: #37423b;
+}
+.icons{
+  height: 40px;
+  width: 40px;
+}

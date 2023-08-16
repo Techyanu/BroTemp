@@ -1,0 +1,32 @@
+a {
+    text-decoration: none;
+    color: grey;
+    font-size: 14px;
+}
+
+.lineH {
+    line-height: 40px;
+}
+
+a:hover {
+    color: #5fcf80
+}
+
+.btnF {
+    height: 48px;
+    width: 100px;
+    font-size: 50px;
+    color: black;
+    font-weight: 800;
+}
+
+.btn-success1 {
+    font-family: Raleway-SemiBold;
+    font-size: 13px;
+    letter-spacing: 1px;
+    line-height: 15px;
+    border: 2px solid rgba(242, 249, 242, 0.985);
+    border-radius: 40px;
+    background: rgb(103, 192, 103, 0.75);
+    transition: all 0.3s ease 0s;
+}
